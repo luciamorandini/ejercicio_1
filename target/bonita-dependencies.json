@@ -1,0 +1,35 @@
+{
+  "connectorImplementations" : [ ],
+  "filterImplementations" : [ {
+    "type" : "ACTOR_FILTER",
+    "className" : "org.bonitasoft.actorfilter.initiator.manager.ProcessInitiatorManagerUserFilter",
+    "implementationId" : "bonita-actorfilter-initiator-manager-impl",
+    "implementationVersion" : "1.0.0",
+    "definitionId" : "bonita-actorfilter-initiator-manager",
+    "definitionVersion" : "1.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.actorfilter",
+      "artifactId" : "bonita-actorfilter-initiator-manager",
+      "version" : "1.0.0",
+      "file" : "C:\\Users\\Inalen Godoy\\.m2\\repository\\org\\bonitasoft\\actorfilter\\bonita-actorfilter-initiator-manager\\1.0.0\\bonita-actorfilter-initiator-manager-1.0.0.jar"
+    },
+    "jarEntry" : "bonita-actorfilter-initiator-manager.impl"
+  } ],
+  "connectorDefinitions" : [ ],
+  "filterDefinitions" : [ {
+    "definitionId" : "bonita-actorfilter-initiator-manager",
+    "definitionVersion" : "1.0",
+    "artifact" : {
+      "groupId" : "org.bonitasoft.actorfilter",
+      "artifactId" : "bonita-actorfilter-initiator-manager",
+      "version" : "1.0.0",
+      "file" : "C:\\Users\\Inalen Godoy\\.m2\\repository\\org\\bonitasoft\\actorfilter\\bonita-actorfilter-initiator-manager\\1.0.0\\bonita-actorfilter-initiator-manager-1.0.0.jar"
+    },
+    "jarEntry" : "bonita-actorfilter-initiator-manager.def"
+  } ],
+  "restApiExtensions" : [ ],
+  "pages" : [ ],
+  "forms" : [ ],
+  "themes" : [ ],
+  "issues" : [ ]
+}
